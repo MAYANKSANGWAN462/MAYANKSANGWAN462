@@ -1,14 +1,45 @@
-<h1 align="center">Hi 👋, I'm Mayank Sangwan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm [Your Name]! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/mayank-sangwan-2a90a61a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mayank-sangwan-2a90a61a0/" height="30" width="40" /></a>
-<a href="https://instagram.com/mayanksangwan_77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/mayanksangwan_77/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/MAYANK_077/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/mayank_077/" height="30" width="40" /></a>
-</p>
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+I'm a passionate developer who loves to build cool stuff and solve real-world problems. I specialize in [Your Specialization, e.g., Full-Stack Development, Data Science, etc.], and I'm always eager to learn new technologies.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksangwan462&" alt="mayanksangwan462" /></p>
+## 🛠️ Skills
+- **Languages:** JavaScript, Python, Java, etc.
+- **Frameworks:** React, Node.js, Django, etc.
+- **Tools:** Git, Docker, VS Code, etc.
+- **Databases:** MySQL, MongoDB, PostgreSQL, etc.
+
+## 🚀 Projects
+Here are some of the projects I've worked on:
+
+- **[Project Name 1](https://github.com/yourusername/project1):** A brief description of the project.
+- **[Project Name 2](https://github.com/yourusername/project2):** A brief description of the project.
+- **[Project Name 3](https://github.com/yourusername/project3):** A brief description of the project.
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [Twitter](https://twitter.com/yourhandle)
+- [Portfolio Website](https://yourportfolio.com)
+
+## 💬 Ask Me About
+- Web Development
+- Machine Learning
+- Open Source Contributions
+
+## 📫 How to Reach Me
+- **Email:** youremail@example.com
+- **Discord:** yourdiscord#1234
+
+## 🎉 Fun Fact
+I once wrote a script that automated my entire morning routine!
+
+---
+
+⭐️ From [Your Name](https://github.com/yourusername)
