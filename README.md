@@ -1,7 +1,11 @@
-# Hi there, I'm MAYANK SANGWAN! 👋
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm <span style="color:#ffb300">Mayank Sangwan</span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Tech+Enthusiast;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coding GIF" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
 </div>
 
 ---
